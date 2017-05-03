@@ -2,5 +2,5 @@ App/node_modules
 App/obj
 App/typings
 App/uploads
-*.nsproj
+*.njsproj
 .vs
