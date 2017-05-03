@@ -1,6 +1,6 @@
 App/node_modules
 App/obj
 App/typings
-App/uploads
+App/uploads/*
 *.njsproj
 .vs
